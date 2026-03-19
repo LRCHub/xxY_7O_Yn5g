@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "嫌々",
   "base_artist": "HALVES",
-  "createdAt": "2025-12-03T08:23:37.492522Z",
+  "createdAt": "2026-03-19T12:56:17.646829Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -13,12 +13,37 @@
       "path": "select/01_嫌々_-_unwillingly_HALVES.lrc"
     },
     {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "#02.嫌々＆あまあまサンドイッチ両耳舐め手コキ♪",
+      "artist": "桜色ピアノ",
+      "has_synced": true,
+      "path": "select/02_02.嫌々&あまあまサンドイッチ両耳舐め手コキ♪_桜色ピアノ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "track2_嫌々？罵倒フェラ&お掃除フェラ",
+      "artist": "のの庵",
+      "has_synced": true,
+      "path": "select/03_track2_嫌々_罵倒フェラ&お掃除フェラ_のの庵.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "嫌々",
       "artist": "Halves",
       "has_synced": false,
       "path": "select/pl_01_嫌々_Halves.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "嫌々",
+      "artist": "HALVES",
+      "has_synced": true,
+      "path": "select/localdb_01_嫌々_HALVES.lrc",
+      "repo_name": "xxY_7O_Yn5g"
     }
   ]
 }
